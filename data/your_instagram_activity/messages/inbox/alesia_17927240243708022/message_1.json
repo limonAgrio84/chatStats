@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Alesia"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1713315989730,
+      "content": "oyeee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alesia",
+  "is_still_participant": true,
+  "thread_path": "inbox/alesia_17927240243708022",
+  "magic_words": [
+    
+  ]
+}

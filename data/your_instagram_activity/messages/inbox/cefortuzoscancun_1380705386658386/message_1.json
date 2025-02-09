@@ -1,0 +1,24 @@
+{
+  "participants": [
+    {
+      "name": "Cefor Tuzos Cancun\u00f0\u009f\u0092\u0099\u00e2\u009a\u00bd\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cefor Tuzos Cancun\u00f0\u009f\u0092\u0099\u00e2\u009a\u00bd\u00ef\u00b8\u008f",
+      "timestamp_ms": 1724804442730,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cefor Tuzos Cancun\u00f0\u009f\u0092\u0099\u00e2\u009a\u00bd\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/cefortuzoscancun_1380705386658386",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Carlos"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1731343885048,
+      "content": "Juan Pablo abandon\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1731343612666,
+      "content": "Jajaa no mames leo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos",
+      "timestamp_ms": 1731343586597,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731343539094,
+      "content": "la vdd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731343537092,
+      "content": "me gusta skibidi toilet",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731343530292,
+      "content": "Skibidi dop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731328662562,
+      "content": "Juanpa llamo de la nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731328656718,
+      "content": "No se",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos",
+      "timestamp_ms": 1731323939308,
+      "content": "Q",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731297365367,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 2213,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1731295772113,
+      "content": "jp_lpz._ inici\u00c3\u00b3 una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juan Pablo",
+      "timestamp_ms": 1731295770318,
+      "content": "Juan cre\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos",
+  "is_still_participant": true,
+  "thread_path": "inbox/carlos_8708039765977423",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

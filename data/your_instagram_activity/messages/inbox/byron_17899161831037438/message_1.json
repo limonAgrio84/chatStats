@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Byron"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Byron",
+      "timestamp_ms": 1723891795627,
+      "content": "\u00f0\u009f\u0092\u00a3\u00f0\u009f\u0087\u00b8\u00f0\u009f\u0087\u00a6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723891769341,
+      "content": "Hahaha qpdo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Byron",
+      "timestamp_ms": 1723891758497,
+      "content": "\u00d8\u00a7\u00d9\u0084\u00d8\u00b0\u00d9\u008a - \u00d8\u00a7\u00d9\u0084\u00d8\u00aa\u00d9\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723891695279,
+      "content": "\u00d0\u009b\u00d0\u00be\u00d1\u0088\u00d0\u00b0\u00d1\u0080\u00d0\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Byron",
+      "timestamp_ms": 1723891641421,
+      "content": "\u00f0\u009f\u008d\u0094\u00f0\u009f\u00a6\u0085\u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Byron",
+      "timestamp_ms": 1723891599148,
+      "content": "yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723891587548,
+      "content": "Ahora eres gringo o qu\u00c3\u00a9 pedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Byron",
+      "timestamp_ms": 1723891547814,
+      "content": "yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723891345703,
+      "content": "\u00f0\u009f\u00a5\u00b5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723891342234,
+      "content": "Llegamos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Byron",
+      "timestamp_ms": 1723384215978,
+      "content": "en el parque",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723382086517,
+      "content": "We donde andan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723382080694,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723382057094,
+      "content": "Iniciaste una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Byron",
+  "is_still_participant": true,
+  "thread_path": "inbox/byron_17899161831037438",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "participants": [
+    {
+      "name": "Carlos"
+    },
+    {
+      "name": "Leo"
+    },
+    {
+      "name": "kevin.lesterr"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1721867230107,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 5803,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos",
+      "timestamp_ms": 1721863150531,
+      "content": "Voy a entrenar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Carlos",
+      "timestamp_ms": 1721863143177,
+      "content": "No bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kevin.lesterr",
+      "timestamp_ms": 1721863021786,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kevin.lesterr",
+      "timestamp_ms": 1721863020999,
+      "content": "Juegas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kevin.lesterr",
+      "timestamp_ms": 1721863019759,
+      "content": "Carlos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kevin.lesterr",
+      "timestamp_ms": 1721863011306,
+      "content": "kevin.lesterr inici\u00c3\u00b3 una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kevin.lesterr",
+      "timestamp_ms": 1721863009531,
+      "content": "kevin.lesterr cre\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Carlos y kevin.lesterr",
+  "is_still_participant": true,
+  "thread_path": "inbox/carlosykevinlesterr_8033357200054419",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
