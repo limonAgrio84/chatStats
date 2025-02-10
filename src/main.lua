@@ -1,5 +1,5 @@
 local parser = require("parser")
-local analizer = require("analizer")
+local analyzer = require("analizer")
 local file = "../data/your_instagram_activity/messages/inbox/ksenia_1007825067465099/message_1.json"
 local chat_data = parser.read_json(file)
 
@@ -16,7 +16,7 @@ for _, message in ipairs(chat_data.messages) do
 end
     
 --contar mensajes
-local count = analizer.count_messages(chat_data)
+local count = analyzer.count_messages(chat_data)
 
 print("messages send by each one")
 
