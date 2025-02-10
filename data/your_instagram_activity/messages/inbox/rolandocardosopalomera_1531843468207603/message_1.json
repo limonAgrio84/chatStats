@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Rolando Cardoso Palomera"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rolando Cardoso Palomera",
+      "timestamp_ms": 1734114327564,
+      "content": "\u00f0\u009f\u0098\u008e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734104928777,
+      "content": "\u00f0\u009f\u0091\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734104927193,
+      "content": "Va",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rolando Cardoso Palomera",
+      "timestamp_ms": 1734104547727,
+      "content": "Va",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rolando Cardoso Palomera",
+  "is_still_participant": true,
+  "thread_path": "inbox/rolandocardosopalomera_1531843468207603",
+  "magic_words": [
+    
+  ]
+}

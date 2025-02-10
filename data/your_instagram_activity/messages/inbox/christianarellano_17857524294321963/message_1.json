@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Christian Arellano"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1738367958326,
+      "content": "Deep seek est\u00c3\u00a1 a otro nivel \u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737390709375,
+      "content": "Esta cuenta no puede recibir tu mensaje porque no permite nuevas solicitudes de mensajes de cualquier persona.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737390709220,
+      "content": "\u00f0\u009f\u00a5\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christian Arellano",
+  "is_still_participant": true,
+  "thread_path": "inbox/christianarellano_17857524294321963",
+  "magic_words": [
+    
+  ]
+}

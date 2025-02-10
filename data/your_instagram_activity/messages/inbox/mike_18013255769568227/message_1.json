@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "mike"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723555955636,
+      "content": "Pues te quedaste wey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mike",
+  "is_still_participant": true,
+  "thread_path": "inbox/mike_18013255769568227",
+  "magic_words": [
+    
+  ]
+}

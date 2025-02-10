@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0090\u00b0"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0090\u00b0",
+      "timestamp_ms": 1717120830534,
+      "content": "Maso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115199302,
+      "content": "Y est\u00c3\u00a1s bien we",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115195842,
+      "content": "No bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0090\u00b0",
+      "timestamp_ms": 1717109129852,
+      "content": "Mr lesione el tobillo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717105985978,
+      "content": "Y la de ir a entrenar \u00f0\u009f\u0097\u00bf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0090\u00b0",
+  "is_still_participant": true,
+  "thread_path": "inbox/17945412746807540",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "jhffgj404"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "jhffgj404",
+      "timestamp_ms": 1733026299661,
+      "content": "109775241655597752",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jhffgj404",
+      "timestamp_ms": 1733025309998,
+      "content": "109775241654123465",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "jhffgj404",
+  "is_still_participant": true,
+  "thread_path": "inbox/jhffgj404_17897591748079211",
+  "magic_words": [
+    
+  ]
+}

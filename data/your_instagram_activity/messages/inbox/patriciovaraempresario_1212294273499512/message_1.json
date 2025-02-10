@@ -1,0 +1,282 @@
+{
+  "participants": [
+    {
+      "name": "Patricio Vara Empresario"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734730393967,
+      "content": "\u00f0\u009f\u0091\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1734727431393,
+      "content": "Esa es la actitud",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1734727427056,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734724260432,
+      "content": "Pues va entr\u00c3\u00a9nenos \u00f0\u009f\u0099\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Patricio Vara Empresario",
+          "timestamp": 1734727427
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1734723870284,
+      "content": "Lo s\u00c3\u00a9, tambi\u00c3\u00a9n a mi me molesta mucho perder",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734723278286,
+      "content": "Le haremos caso porque no queremos volver a perder \u00f0\u009f\u0092\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734723264733,
+      "content": "Vaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1734723248508,
+      "content": "Si, entrenaremos mejor esta vez en el cole",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734722586671,
+      "content": "La pr\u00c3\u00b3xima reta contra el lawrence lo hacemos prof",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1734719246729,
+      "content": "Mira esa facilidad de juego",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1734719246494,
+      "content": "Patricio sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DDzxCPNpbkx/?id=3527378591214319921_64750578958",
+        "share_text": "Este gol del Feyenoord no tiene sentido, jogo bonito \u00e2\u009c\u00a8\u00e2\u009c\u00a8\n\n#futbol #futbolista #futbolsport #gol #f\u00c3\u00batbol #futbolero #magia",
+        "original_content_owner": "s0lo.futbol"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1733288478254,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733282668331,
+      "content": "\u00f0\u009f\u0091\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733282666960,
+      "content": "Ah\u00c3\u00ad lo espero",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Patricio Vara Empresario",
+          "timestamp": 1733288478
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733282662696,
+      "content": "Vaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1733282653345,
+      "content": "El prox martes ah\u00c3\u00ad nos vemos en el fut",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1733282646523,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733282388283,
+      "content": "Jajaja literal",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Patricio Vara Empresario",
+          "timestamp": 1733282646
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/pato_vara/3515325806281163388"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1732213826581,
+      "content": "Jaja gracias profe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1732207073657,
+      "content": "Para que veas como usan el cuerpo en fut 7",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1732207073461,
+      "content": "Patricio sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Leo",
+          "timestamp": 1732213827
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/DBfDjfZvkxX/?id=3485520269647170647_66844507646",
+        "share_text": "",
+        "original_content_owner": "lupadosbonus"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731976621332,
+      "content": "Gracias profe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731976618552,
+      "content": "Jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1731975112054,
+      "content": "Checa como usa el cuerpo Hulk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1731975095473,
+      "content": "https://www.facebook.com/share/r/gU8V265k2KUoZbvV/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731726019411,
+      "content": "Aj\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731726016714,
+      "content": "Fut 11",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1731716015602,
+      "content": "Que es eso fut 7?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1731715999599,
+      "content": "Osea el mismo d\u00c3\u00ada que hay fut en el cole",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731715534771,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731715512830,
+      "content": "Jajaja pues el martes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Patricio Vara Empresario",
+      "timestamp_ms": 1731715246831,
+      "content": "Cuando vuelves a jugar fut?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Patricio Vara Empresario",
+  "is_still_participant": true,
+  "thread_path": "inbox/patriciovaraempresario_1212294273499512",
+  "magic_words": [
+    
+  ]
+}

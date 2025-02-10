@@ -1,0 +1,99 @@
+{
+  "participants": [
+    {
+      "name": "Pablo"
+    },
+    {
+      "name": "Leo"
+    },
+    {
+      "name": "Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1730344381567,
+      "content": "\u00f0\u009f\u0099\u0082\u00e2\u0080\u008d\u00e2\u0086\u0095\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1730344369412,
+      "content": "Apoyo la idea",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1730344365480,
+      "content": "A albor_pablo_ le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1730344339646,
+      "content": "Bro ya solo dale like enviarlo a un grupo random es un poco XD",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Pablo",
+          "timestamp": 1730344365
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1730337667241,
+      "content": "Alejandro sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C_3JddYOrjr/?id=3456272845858584811_4662359262",
+        "share_text": "S\u00c3\u00a1ltate esa estapaaaa!!!!!!!!\n\n#mentalidad #vivencia #real #anecdota #desilucion #amor #leydelaatraccion #hombres #j\u00c3\u00b3venes #mujeres #verdad",
+        "original_content_owner": "urielcorro_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1730254186209,
+      "content": "Alejandro sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DBL-EXhAIhn/?id=3480148116085180519_48913895493",
+        "share_text": "",
+        "original_content_owner": "ahm3.x"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1729958484816,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 4366,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729955037613,
+      "content": "Creaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo y Alejandro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pabloyalejandro_27391818897128911",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

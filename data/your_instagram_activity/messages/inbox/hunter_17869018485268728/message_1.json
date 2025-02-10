@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "HUNTER"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1736468997108,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 9,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1736468980835,
+      "content": "Iniciaste una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HUNTER",
+      "timestamp_ms": 1736064549372,
+      "content": "AY HERMANA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1736064523448,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HUNTER",
+      "timestamp_ms": 1736061180557,
+      "content": "OK",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1736060972805,
+      "content": "Estamos en el coffee bean",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HUNTER",
+      "timestamp_ms": 1736060957259,
+      "content": "QUE HACEN",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1736060941742,
+      "content": "Que pas\u00c3\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HUNTER",
+      "timestamp_ms": 1736059490153,
+      "content": "Tienes una llamada de audio perdida",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HUNTER",
+      "timestamp_ms": 1736059479556,
+      "content": "thunders915 inici\u00c3\u00b3 una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HUNTER",
+  "is_still_participant": true,
+  "thread_path": "inbox/hunter_17869018485268728",
+  "magic_words": [
+    
+  ]
+}

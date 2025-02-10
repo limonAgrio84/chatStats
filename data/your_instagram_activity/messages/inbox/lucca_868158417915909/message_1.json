@@ -1,0 +1,142 @@
+{
+  "participants": [
+    {
+      "name": "Lucca"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1725588732617,
+      "content": "Jajaja",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucca",
+      "timestamp_ms": 1725588709271,
+      "content": "Vtalvvvv",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1725587287922,
+      "content": "Vamos \u00f0\u009f\u00a5\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723972175243,
+      "content": "Est\u00c3\u00a1s despierto?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723972170939,
+      "content": "Oyee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucca",
+      "timestamp_ms": 1723613612327,
+      "content": "Se me va el dedo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Leo",
+          "timestamp": 1723614111
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723613600749,
+      "content": "Hahaha que pedo con la risa dec\u00c3\u00addete",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucca",
+      "timestamp_ms": 1723590415022,
+      "content": "lit nosotros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucca",
+      "timestamp_ms": 1723590406493,
+      "content": "JAJAJAJAJAHAHA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723588700936,
+      "content": "Tu conmigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723588700596,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C7m2Cr3S0fB/?id=3379626249437267905_66021574460",
+        "share_text": "No problem! Here\u00e2\u0080\u0099s the information about the\nMercedes CLR GTR:\n\nThe Mercedes CLR GTR is a remarkable racing car\ncelebrated for its outstanding performance and sleek design. Powered by a potent 6.0-liter V12\nengine, it delivers over 600 horsepower\nAcceleration from 0 to 100 km/h takes approximately 3.7 seconds, with a remarkable top\nspeed surpassing 320 km/h.\n\nIncorporating advanced aerodynamic features and\ncutting-edge stability technologies, the CLR GTR ensures exceptional stability and control, particularly during high-speed maneuvers.\n\noriginaly priced around $1.5 million, the Mercedes CLR GTR is considered one of the most exclusive\nand prestigious racing cars ever produced.\n\nIts limited production run of just five units adds to\nits rarity, making it highly sought after by racing\nenthusiasts and collectors worldwide.\n\n#fyp",
+        "original_content_owner": "zytnri"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717460545442,
+      "content": "\u00e2\u0098\u009d\u00ef\u00b8\u008f\u00f0\u009f\u00a4\u0093",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717460542954,
+      "content": "De nada",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lucca",
+      "timestamp_ms": 1717460340304,
+      "content": "Graciassss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717460276705,
+      "content": "Feliz cumple",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717460268992,
+      "content": "Oyee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lucca",
+  "is_still_participant": true,
+  "thread_path": "inbox/lucca_868158417915909",
+  "magic_words": [
+    
+  ]
+}

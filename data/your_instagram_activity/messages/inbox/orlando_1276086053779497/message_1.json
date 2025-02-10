@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Orlando"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1713226690145,
+      "content": "Click this link to add as friend in Clash Royale! https://link.clashroyale.com/invite/friend/en?tag=RRLJ8V2P&token=hfygf3yd&platform=iOS",
+      "share": {
+        "link": "https://link.clashroyale.com/invite/friend/en?tag=RRLJ8V2P&token=hfygf3yd&platform=iOS",
+        "share_text": "Click this link to add as friend in Clash Royale! https://link.clashroyale.com/invite/friend/en?tag=RRLJ8V2P&token=hfygf3yd&platform=iOS"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Orlando",
+  "is_still_participant": true,
+  "thread_path": "inbox/orlando_1276086053779497",
+  "magic_words": [
+    
+  ]
+}

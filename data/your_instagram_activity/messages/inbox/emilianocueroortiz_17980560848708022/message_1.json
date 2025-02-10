@@ -1,0 +1,285 @@
+{
+  "participants": [
+    {
+      "name": "Emiliano Cuero Ortiz"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1734617104114,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734615704830,
+      "content": "\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u0085",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1734593596090,
+      "content": "Si \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1734555570640,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1723971181198,
+      "content": "\u00f0\u009f\u00a4\u0097",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723971132089,
+      "content": "\u00f0\u009f\u00a5\u00b6",
+      "share": {
+        "link": "https://instagram.com/stories/c9.emil/3437240080278096167"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722723172209,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722723116772,
+      "content": "Okay \u00f0\u009f\u0091\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Emiliano Cuero Ortiz",
+          "timestamp": 1722723172
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722723024509,
+      "content": "No hay nada mio gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722722866897,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722722818829,
+      "content": "c9.emil wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722722818639,
+      "content": "Ah\u00c3\u00ad tienes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685383459,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685105588,
+      "content": "Ok ntp",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Emiliano Cuero Ortiz",
+          "timestamp": 1722685383
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685099699,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685099009,
+      "content": "Envia me foto esta noche porfa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685097023,
+      "content": "Pero porque preguntas si dejaste algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685090855,
+      "content": "Ah bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685083790,
+      "content": "Creo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685079346,
+      "content": "No es la mia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685076487,
+      "content": "Si me entiendes?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685064636,
+      "content": "Es una cosa que tiene varios enchufes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685052086,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685048733,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685047826,
+      "content": "O adaptador",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685039796,
+      "content": "En donde conectas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685036448,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685032280,
+      "content": "Para cargar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685030040,
+      "content": "Cargador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722685029437,
+      "content": "Pues \u00c3\u00b3sea lo de los conectores",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685017245,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722685016165,
+      "content": "Que extension",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722684999254,
+      "content": "Pero recuerdo que dejaste una extensi\u00c3\u00b3n y monedas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1722684987401,
+      "content": "Ahorita estoy en la escuela",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722684617971,
+      "content": "puedes mirar por favor?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Emiliano Cuero Ortiz",
+      "timestamp_ms": 1722684591033,
+      "content": "Olvid\u00c3\u00a9 algo en la habitaci\u00c3\u00b3n?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Emiliano Cuero Ortiz",
+  "is_still_participant": true,
+  "thread_path": "inbox/emilianocueroortiz_17980560848708022",
+  "magic_words": [
+    
+  ]
+}

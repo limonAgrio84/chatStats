@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Juan Pablo Sanchez de Cima"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724004446537,
+      "content": "Videochat finalizado",
+      "call_duration": 0,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724004434375,
+      "content": "Iniciaste un videochat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1723757303905,
+      "content": "Etiqu\u00c3\u00a9tanos jp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan Pablo Sanchez de Cima",
+  "is_still_participant": true,
+  "thread_path": "inbox/juanpablosanchezdecima_1526815152047953",
+  "magic_words": [
+    
+  ]
+}

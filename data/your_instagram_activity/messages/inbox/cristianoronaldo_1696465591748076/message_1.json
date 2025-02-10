@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Cristiano Ronaldo"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724698214334,
+      "content": "Esta cuenta no puede recibir tu mensaje porque no permite nuevas solicitudes de mensajes de cualquier persona.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724698214167,
+      "content": "Ya me siuuubscribi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cristiano Ronaldo",
+  "is_still_participant": true,
+  "thread_path": "inbox/cristianoronaldo_1696465591748076",
+  "magic_words": [
+    
+  ]
+}

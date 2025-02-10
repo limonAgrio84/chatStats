@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "philip"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "philip",
+      "timestamp_ms": 1723141064326,
+      "content": "\u00e2\u009b\u00b1\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/le0_0nardo1/3430277262166074098"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "philip",
+  "is_still_participant": true,
+  "thread_path": "inbox/philip_17966618078784703",
+  "magic_words": [
+    
+  ]
+}
