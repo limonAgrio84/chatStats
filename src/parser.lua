@@ -7,8 +7,10 @@ local function read_json(filename)
         error("No se pudo abrir el archivo: " .. filename)
     end
 
-    local content = file:read("*all")  -- Leer todo el contenido del archivo
+    local content = file:read("*all")
     file:close()  -- Cerrar el archivo
+    
+    
 
     -- Decodificar el JSON
     local data, pos, err = dkjson.decode(content, 1, nil)
