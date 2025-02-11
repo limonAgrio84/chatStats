@@ -44,5 +44,5 @@ print("------------------------------------------------")
 local avg_times = analyzer.avg_response_time(time_list, "m")
 
 for user, avg in pairs(avg_times) do
-    print(user .. " tarda en responder en promedio: " .. avg .. " minutos")
+    print(user .. " takes on average to respond: " .. avg .. " minutes")
 end
