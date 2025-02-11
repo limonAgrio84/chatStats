@@ -124,12 +124,57 @@ local function median_response_time(time_list, unit, threshold)
     return median_times
 end
 
+-- Función para calcular el tiempo de respuesta más rápido y más lento
+local function response_extremes(time_list, min_threshold)
+    local extremes = {}
+    min_threshold = min_threshold or 1  -- 🔹 Evitar tiempos menores a 1 segundo (puedes ajustarlo)
 
+    for user, timestamps in pairs(time_list) do
+        table.sort(timestamps)  -- Ordenar los timestamps
 
+        local min_response_time = math.huge  -- Inicializamos con un valor alto
+        local max_response_time = -math.huge -- Inicializamos con un valor bajo
+
+        -- Recorrer los timestamps y calcular las diferencias
+        for i = 2, #timestamps do
+            local diff = (timestamps[i] - timestamps[i - 1]) / 1000  -- Convertir de ms a s
+
+            -- Aplicar umbral para evitar valores irreales
+            if diff >= min_threshold then
+                -- Encontrar el tiempo de respuesta más rápido
+                if diff < min_response_time then
+                    min_response_time = diff
+                end
+
+                -- Encontrar el tiempo de respuesta más lento
+                if diff > max_response_time then
+                    max_response_time = diff
+                end
+            end
+        end
+
+        -- Si no hay valores válidos, asignamos `nil` para evitar errores
+        if min_response_time == math.huge then
+            min_response_time = nil
+        end
+        if max_response_time == -math.huge then
+            max_response_time = nil
+        end
+
+        -- Guardar los resultados para cada usuario
+        extremes[user] = {
+            fastest = min_response_time or "No data",
+            slowest = max_response_time or "No data"
+        }
+    end
+
+    return extremes
+end
 
 return {
     count_messages = count_messages,
-    count_time = count_time, 
+    count_time = count_time,
     avg_response_time = avg_response_time,
-    median_response_time = median_response_time
+    median_response_time= median_response_time,
+    response_extremes = response_extremes
 }

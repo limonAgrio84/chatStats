@@ -55,3 +55,13 @@ local median_times = analyzer.median_response_time(time_list, "s", threshold_sec
 for user, median in pairs(median_times) do
     print(user .. " tarda en responder en mediana: " .. median .. " segundos")
 end
+
+print("------------------------------------------------")
+-- Llamar a la nueva función para obtener el tiempo más rápido y más lento
+local min_threshold = 2  -- Solo contar tiempos mayores a 2 segundos
+local extremes = analyzer.response_extremes(time_list, min_threshold)
+
+for user, times in pairs(extremes) do
+    print(user .. " - Fastest response: " .. (times.fastest or "No data") .. " seconds")
+    print(user .. " - Slowest response: " .. (times.slowest or "No data") .. " seconds")
+end
