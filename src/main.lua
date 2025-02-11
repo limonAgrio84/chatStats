@@ -9,12 +9,12 @@ for _, person in ipairs(chat_data.participants) do
 end
 
 
-print("Message in the conversation:")
-for _, message in ipairs(chat_data.messages) do 
-    if message.content then
-        print(message.sender_name .. ": " .. message.content)
-    end
-end
+--print("Message in the conversation:")
+--for _, message in ipairs(chat_data.messages) do 
+--    if message.content then
+--        print(message.sender_name .. ": " .. message.content)
+--    end
+--end
     
 --contar mensajes
 local count = analyzer.count_messages(chat_data)
@@ -29,16 +29,16 @@ end
 
 --test tiempo 
 local time_list = analyzer.count_time(chat_data)
-print("------------------------------------------")
-print("Timestamps por usuario:")
+--print("------------------------------------------")
+--print("Timestamps por usuario:")
 
-for name, timestamps in pairs(time_list) do
-    print(name .. ":")
-    local max_print = math.min(#timestamps, 20) -- Limita a 20 o menos si hay menos de 20 elementos
-    for i = 1, max_print do
-        print("   - " .. timestamps[i])
-    end
-end
+--for name, timestamps in pairs(time_list) do
+--    print(name .. ":")
+--    local max_print = math.min(#timestamps, 20) -- Limita a 20 o menos si hay menos de 20 elementos
+--    for i = 1, max_print do
+--        print("   - " .. timestamps[i])
+--    end
+--end
 
 print("------------------------------------------------")
 local avg_times = analyzer.avg_response_time(time_list, "m")
