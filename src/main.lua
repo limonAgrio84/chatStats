@@ -1,6 +1,6 @@
 local parser = require("parser")
 local analyzer = require("analyzer")
-local file = "../data/message_1.json"
+local file = "../data/your_instagram_activity/messages/inbox/zorrilloconunmonitorosaarriba_17878373121139972/message_1.json"
 local chat_data = parser.read_json(file)
 
 print("Chat entre:")
@@ -41,8 +41,17 @@ local time_list = analyzer.count_time(chat_data)
 --end
 
 print("------------------------------------------------")
-local avg_times = analyzer.avg_response_time(time_list, "m")
+local avg_times = analyzer.avg_response_time(time_list,"m",24*3600)
 
 for user, avg in pairs(avg_times) do
     print(user .. " takes on average to respond: " .. avg .. " minutes")
+end
+
+print("------------------------------------------------")
+local threshold_seconds = 34 * 3600 -- Filtrar tiempos mayores a 7 horas
+
+local median_times = analyzer.median_response_time(time_list, "s", threshold_seconds)
+
+for user, median in pairs(median_times) do
+    print(user .. " tarda en responder en mediana: " .. median .. " segundos")
 end

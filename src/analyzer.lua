@@ -41,9 +41,14 @@ end
 -- Sumar los timestamp de cada usuario y calcular el promedio
 -- Sumar los timestamp de cada usuario y calcular el promedio
 -- Función para calcular el tiempo promedio de respuesta en la unidad deseada
-local function avg_response_time(time_list, unit)
+-- Función para calcular el tiempo promedio de respuesta en la unidad deseada
+local function avg_response_time(time_list, unit, threshold)
     local avg_times = {}
     local unit_conversion = {s = 1, m = 60, h = 3600} -- 🔹 Conversión de unidades
+    local default_threshold = 7 * 3600 -- 🔹 7 horas (25,200 segundos)
+
+    -- Si no se proporciona un umbral, usar el predeterminado
+    threshold = threshold or default_threshold 
 
     if not unit_conversion[unit] then
         error("Unidad no válida. Usa 's' para segundos, 'm' para minutos o 'h' para horas.")
@@ -58,13 +63,17 @@ local function avg_response_time(time_list, unit)
         -- Recorrer los timestamps para calcular el tiempo entre mensajes
         for i = 2, #timestamps do
             local diff = (timestamps[i] - timestamps[i - 1]) / 1000 -- 🔹 Convertir de ms a s
-            total_time = total_time + diff
-            count = count + 1
+            
+            -- 🔹 Filtrar tiempos de respuesta atípicos (mayores a 7 horas por defecto)
+            if diff <= threshold then
+                total_time = total_time + diff
+                count = count + 1
+            end
         end
 
-        -- Evitar división por 0
+        -- Evitar división por 0 y redondear a 2 decimales
         if count > 0 then
-            avg_times[user] = round((total_time / count) / unit_conversion[unit]) -- 🔹 Convertir a la unidad deseada
+            avg_times[user] = round((total_time / count) / unit_conversion[unit], 2)
         else
             avg_times[user] = 0
         end
@@ -73,11 +82,54 @@ local function avg_response_time(time_list, unit)
     return avg_times
 end
 
+--mediana 
+-- Función para calcular la mediana de tiempos de respuesta por usuario
+local function median_response_time(time_list, unit, threshold)
+    local median_times = {}
+    local unit_conversion = {s = 1, m = 60, h = 3600} -- Conversión de unidades
+
+    if not unit_conversion[unit] then
+        error("Unidad no válida. Usa 's' para segundos, 'm' para minutos o 'h' para horas.")
+    end
+
+    for user, timestamps in pairs(time_list) do
+        table.sort(timestamps) -- Ordenar timestamps en orden ascendente
+
+        local response_times = {}
+
+        -- Calcular tiempos de respuesta
+        for i = 2, #timestamps do
+            local diff = (timestamps[i] - timestamps[i - 1]) / 1000 -- Convertir de ms a s
+            if diff <= threshold then -- Filtrar tiempos atípicos
+                table.insert(response_times, diff)
+            end
+        end
+
+        -- Calcular la mediana
+        local count = #response_times
+        if count == 0 then
+            median_times[user] = 0 -- Si no hay respuestas válidas
+        else
+            table.sort(response_times) -- Ordenar tiempos de respuesta
+            local mid = math.floor(count / 2)
+
+            if count % 2 == 0 then
+                median_times[user] = (response_times[mid] + response_times[mid + 1]) / (2 * unit_conversion[unit])
+            else
+                median_times[user] = response_times[mid + 1] / unit_conversion[unit]
+            end
+        end
+    end
+
+    return median_times
+end
+
 
 
 
 return {
     count_messages = count_messages,
     count_time = count_time, 
-    avg_response_time = avg_response_time
+    avg_response_time = avg_response_time,
+    median_response_time = median_response_time
 }
