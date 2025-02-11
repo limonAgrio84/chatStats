@@ -1,6 +1,6 @@
 local parser = require("parser")
 local analyzer = require("analyzer")
-local file = "../data/message_1_utf8.json"
+local file = "../data/message_1.json"
 local chat_data = parser.read_json(file)
 
 print("Chat entre:")
