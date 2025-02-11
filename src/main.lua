@@ -1,6 +1,6 @@
 local parser = require("parser")
-local analyzer = require("analizer")
-local file = "../data/your_instagram_activity/messages/inbox/alejandro_17938649702708022/message_1.json"
+local analyzer = require("analyzer")
+local file = "../data/message_1_utf8.json"
 local chat_data = parser.read_json(file)
 
 print("Chat entre:")
