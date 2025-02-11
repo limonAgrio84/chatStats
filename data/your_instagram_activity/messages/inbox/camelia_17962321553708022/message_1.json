@@ -1,0 +1,221 @@
+{
+  "participants": [
+    {
+      "name": "camelia"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1717116097022,
+      "content": "sisi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115838771,
+      "content": "Pues la pr\u00c3\u00b3xima \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115830025,
+      "content": "Ah bueno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1717115771868,
+      "content": "te iba a hablar pero igual me daba pena JAJAJA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115625418,
+      "content": "Es que no sab\u00c3\u00ada si eras t\u00c3\u00ba y pues me daba pena preguntar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115609477,
+      "content": "Pues un saludo o algo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1717115505938,
+      "content": "sii, por qu\u00c3\u00a9? ya me vas a hablar?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115182607,
+      "content": "T\u00c3\u00ba eres la que luego est\u00c3\u00a1 en las gradas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115171473,
+      "content": "Oye",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717115165628,
+      "content": "Pues cansado es que vengo de entrenar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1717107403559,
+      "content": "bien y t\u00c3\u00bauu?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1717107398192,
+      "content": "no te preocupes, igual te hubiese escrito, pero pues a veces ni agarro el celular",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717099707458,
+      "content": "C\u00c3\u00b3mo andas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717099683439,
+      "content": "Oye perd\u00c3\u00b3n por no volver a escribir nada Esque andaba castigado",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1717099638198,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1717074789162,
+      "content": "holaa, c\u00c3\u00b3mo est\u00c3\u00a1s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1710204588614,
+      "content": "JAJAJAJA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710204468840,
+      "content": "Jajaja no muerdo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1710204437467,
+      "content": "por pena JAJAJ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710203825087,
+      "content": "Y porque no me lo pediste t\u00c3\u00ba \u00f0\u009f\u00a4\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710203811900,
+      "content": "Ahh pues si soy yo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1710203219660,
+      "content": "s\u00c3\u00ad, \u00c3\u00a9l JAJAJA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710202141898,
+      "content": "Es que no me s\u00c3\u00a9 su nombre \u00f0\u009f\u0098\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710202132063,
+      "content": "Te refieres a un ni\u00c3\u00b1o morenito en tuzos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710202112669,
+      "content": "Mmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1710194165792,
+      "content": "Santiago te pidi\u00c3\u00b3 tu insta por m\u00c3\u00ad, o no eres t\u00c3\u00ba? JAJAJA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710177599552,
+      "content": "Qui\u00c3\u00a9n eres?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1710177593071,
+      "content": "Holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "camelia",
+      "timestamp_ms": 1710176979899,
+      "content": "holaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "camelia",
+  "is_still_participant": true,
+  "thread_path": "inbox/camelia_17962321553708022",
+  "magic_words": [
+    
+  ]
+}

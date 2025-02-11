@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Pablo"
+    },
+    {
+      "name": "\u00d0\u009c\u00d0\u00b0x"
+    },
+    {
+      "name": "Leo"
+    },
+    {
+      "name": "Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1725076028110,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 1860,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1725074516396,
+      "content": "No se",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1725074507959,
+      "content": "Para que crearon otro grupo?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1725074492020,
+      "content": "Iniciaste una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1725074490936,
+      "content": "Creaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo, \u00d0\u009c\u00d0\u00b0x y Alejandro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pablomaxyalejandro_8275069325864956",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

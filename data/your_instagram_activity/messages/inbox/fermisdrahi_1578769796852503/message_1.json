@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "fer misdrahi"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1732910466162,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "fer misdrahi",
+      "timestamp_ms": 1732811501854,
+      "content": "\u00c2\u00a1Hola!, \u00c2\u00bfme podr\u00c3\u00adas ayudar siguiendo esta cuenta y compartiendo?, much\u00c3\u00adsimas gracias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "fer misdrahi",
+      "timestamp_ms": 1732811500766,
+      "content": "https://www.instagram.com/edulud.mx/profilecard/",
+      "share": {
+        "link": "https://www.instagram.com/_u/edulud.mx",
+        "profile_share_username": "edulud.mx",
+        "profile_share_name": "EduLud"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "fer misdrahi",
+  "is_still_participant": true,
+  "thread_path": "inbox/fermisdrahi_1578769796852503",
+  "magic_words": [
+    
+  ]
+}

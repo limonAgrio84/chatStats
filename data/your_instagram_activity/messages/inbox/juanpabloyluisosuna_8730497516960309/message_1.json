@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Juan Pablo"
+    },
+    {
+      "name": "Luis Osuna"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luis Osuna",
+      "timestamp_ms": 1726981216770,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 375,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Osuna",
+      "timestamp_ms": 1726980873921,
+      "content": "luiselosuna inici\u00c3\u00b3 una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Luis Osuna",
+      "timestamp_ms": 1726980872898,
+      "content": "Luis cre\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juan Pablo y Luis Osuna",
+  "is_still_participant": true,
+  "thread_path": "inbox/juanpabloyluisosuna_8730497516960309",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

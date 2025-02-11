@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Pablo"
+    },
+    {
+      "name": "\u00d0\u009c\u00d0\u00b0x"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731818180779,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 5835,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1731815945682,
+      "content": "8356681700449814",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1731815775018,
+      "videos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/pabloymax_9544499305564148/videos/466026184_860475982615200_449078759455868256_n_541444388681006.mp4"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1731815557801,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/pabloymax_9544499305564148/photos/462650064_1913082075848686_8908322821528313027_n_1913082072515353.jpg",
+          "creation_timestamp": 1731815557,
+          "backup_uri": "https://scontent.fisj1-1.fna.fbcdn.net/v/t1.15752-9/462650064_1913082075848686_8908322821528313027_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9f807c&_nc_ohc=sda0tGvgGrUQ7kNvgG9CcCF&_nc_oc=AdiiortfAKfuPOM3yoA6gV-iF8yZ25CPWVeerUWdrxtrLUOwR2pF6tBgcsxuV-iV5l_8CN64tN_OQRfqYzeX-yTD&_nc_zt=23&_nc_ht=scontent.fisj1-1.fna&oh=03_Q7cD1gEF2pxSUpTrMHRw19LidLaq_TZtGDSQbjcQKhTdNIABKw&oe=67D081DC"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1731815470563,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/pabloymax_9544499305564148/photos/462563276_874993798124667_5824666579311294695_n_874993794791334.jpg",
+          "creation_timestamp": 1731815469,
+          "backup_uri": "https://scontent.fisj1-1.fna.fbcdn.net/v/t1.15752-9/462563276_874993798124667_5824666579311294695_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=JMAYug6S22gQ7kNvgGlXWwJ&_nc_oc=Adj7LqJKwxpEl6E2Y016eL2wAIyEEtuaKKV-PZGsC7UBC_jLI7La7us9PlNWaE6jkwBoYI7hu-fa-6sc4URGcJdq&_nc_zt=23&_nc_ht=scontent.fisj1-1.fna&oh=03_Q7cD1gFESP7NZImRTpPwbksM1_aTqoDI9qR-eCAh_R2iIi37Dg&oe=67D0883A"
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/pabloymax_9544499305564148/photos/467473034_925046892890636_8530433983196042832_n_925046886223970.jpg",
+          "creation_timestamp": 1731815469,
+          "backup_uri": "https://scontent.fisj1-1.fna.fbcdn.net/v/t1.15752-9/467473034_925046892890636_8530433983196042832_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=9f807c&_nc_ohc=0wmeauvkbv4Q7kNvgGflh7a&_nc_oc=AdiHr619NkYjMlLVeGl1YC4IlINt0BgTWnIo07iIO3aI2_D_bRMxu6294Y-CKzbbWoFmOzXC-4OgoBizbJmY04Mm&_nc_zt=23&_nc_ht=scontent.fisj1-1.fna&oh=03_Q7cD1gHn4ZaUuZ8U-t9lYSY4hcfpojNBymLL4LXXKU7cx_WXkw&oe=67D08481"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d0\u009c\u00d0\u00b0x",
+      "timestamp_ms": 1731813454877,
+      "content": "m4x1m0_37 inici\u00c3\u00b3 una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00d0\u009c\u00d0\u00b0x",
+      "timestamp_ms": 1731813453775,
+      "content": "\u00d0\u009c\u00d0\u00b0x cre\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo y \u00d0\u009c\u00d0\u00b0x",
+  "is_still_participant": true,
+  "thread_path": "inbox/pabloymax_9544499305564148",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

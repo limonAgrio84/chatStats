@@ -1,0 +1,199 @@
+{
+  "participants": [
+    {
+      "name": "Pablo"
+    },
+    {
+      "name": "Leo"
+    },
+    {
+      "name": "Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726953626739,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726953625511,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952651614,
+      "content": "\u00f0\u009f\u0092\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1726952648096,
+      "content": "Como en 15",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952645294,
+      "content": "Estoy cerca",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952636662,
+      "content": "A q hora llegas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1726952615614,
+      "content": "Ya est\u00c3\u00a1s?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1726952613556,
+      "content": "Ya voy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952383734,
+      "content": "\u00f0\u009f\u0098\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952379315,
+      "content": "@rodrigol542",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952377070,
+      "content": "@rodrigol542",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952086894,
+      "content": "Ya vas?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726952082197,
+      "content": "@rodrigol542",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726951467157,
+      "content": "Pero hoy no puedo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726951453492,
+      "content": "Pero dicen que me pueden presentar a 2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726951443508,
+      "content": "Tengo que ir a comer con mi familia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726951430029,
+      "content": "Nop",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726951415817,
+      "content": "\u00f0\u009f\u0092\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1726951068261,
+      "content": "Ya me encontraste una?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1726951064683,
+      "content": "Leo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726946399247,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C9kFP1LOr4-/?id=3414877495575100990_57733159077",
+        "share_text": "JAJAJAJA",
+        "original_content_owner": "jesus_pliegoo133"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726925314494,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 5471,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726921103020,
+      "content": "albor_pablo_ inici\u00c3\u00b3 una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726921101379,
+      "content": "Pablo cre\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo y Alejandro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pabloyalejandro_8233911633313118",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

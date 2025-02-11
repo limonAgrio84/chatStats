@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "nicole"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "nicole",
+      "timestamp_ms": 1732851992179,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1732851531077,
+      "content": "Jaja si esta buena",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "nicole",
+          "timestamp": 1732851992
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "nicole",
+      "timestamp_ms": 1732850790057,
+      "content": "joya",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Leo",
+          "timestamp": 1732851521
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "nicole",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicole_1079584820175274",
+  "magic_words": [
+    
+  ]
+}

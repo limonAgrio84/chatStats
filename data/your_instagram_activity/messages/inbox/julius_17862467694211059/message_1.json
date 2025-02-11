@@ -1,0 +1,241 @@
+{
+  "participants": [
+    {
+      "name": "julius"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366369303,
+      "content": "Paja rusa",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0082",
+          "actor": "Leo",
+          "timestamp": 1724366391
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366352121,
+      "content": "Liebe dich mein Bruder",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Leo",
+          "timestamp": 1724366388
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724366296632,
+      "content": "Tsch\u00c3\u00bcss",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366274862,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724366254590,
+      "content": "Thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "julius",
+          "timestamp": 1724366274
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366240737,
+      "content": "Have an nice  evening",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366191742,
+      "content": "Oh yeah",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724366180163,
+      "content": "Yes but I play in the inferiors",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366100916,
+      "content": "Oh yeah that\u00e2\u0080\u0099s also not bad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366078471,
+      "content": "Is the team in the first League",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366056437,
+      "content": "My brother",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724366048524,
+      "content": "Yes tomorrow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365979699,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365961535,
+      "content": "Right now im going to a match",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365947852,
+      "content": "But is okay because I only focus on score goals \u00f0\u009f\u00a5\u00b6",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365931597,
+      "content": "We are just like friends",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365919913,
+      "content": "No \u00f0\u009f\u00a5\u00b2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365914950,
+      "content": "Say to her that I miss her \u00f0\u009f\u00a4\u0093",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724365908141,
+      "content": "Is she now your Girlfriend",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365895264,
+      "content": "Yeah she told me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724365887574,
+      "content": "I know her she is my Group",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724365872380,
+      "content": "Le gust\u00c3\u00b3 un mensaje",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365850629,
+      "content": "Hahaha you got me",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "julius",
+          "timestamp": 1724365872
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724365842688,
+      "content": "With the Russian",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724365835118,
+      "content": "Broooo and you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365825656,
+      "content": "I thought you only focus on football \u00f0\u009f\u0097\u00bf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "julius",
+      "timestamp_ms": 1724365807481,
+      "content": "What is bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1724365787103,
+      "content": "Bro \u00f0\u009f\u00a4\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "julius",
+  "is_still_participant": true,
+  "thread_path": "inbox/julius_17862467694211059",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Pollosauriorex"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1738688445364,
+      "content": "https://youtube.com/watch?v=bVmEWUr7L9A&si=3g0EK6Jdc0E2uE9v",
+      "share": {
+        "link": "https://youtube.com/watch?v=bVmEWUr7L9A&si=3g0EK6Jdc0E2uE9v",
+        "share_text": "https://youtube.com/watch?v=bVmEWUr7L9A&si=3g0EK6Jdc0E2uE9v"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pollosauriorex",
+  "is_still_participant": true,
+  "thread_path": "inbox/pollosauriorex_17915016963061576",
+  "magic_words": [
+    
+  ]
+}

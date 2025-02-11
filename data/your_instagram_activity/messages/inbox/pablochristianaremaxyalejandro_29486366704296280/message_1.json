@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Pablo"
+    },
+    {
+      "name": "christian are"
+    },
+    {
+      "name": "\u00d0\u009c\u00d0\u00b0x"
+    },
+    {
+      "name": "Leo"
+    },
+    {
+      "name": "Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1737979680721,
+      "content": "Que paso",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737948780954,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 4827,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737948356864,
+      "content": "Agregaste a \u00d0\u009c\u00d0\u00b0x al grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737945923948,
+      "content": "Agregaste a christian are al grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1737945404729,
+      "content": "Bobi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737944211981,
+      "content": "Iniciaste una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo, christian are, \u00d0\u009c\u00d0\u00b0x y Alejandro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pablochristianaremaxyalejandro_29486366704296280",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "Pablo"
+    },
+    {
+      "name": "Leo"
+    },
+    {
+      "name": "Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1737896465501,
+      "content": "Estaba dormido",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alejandro",
+      "timestamp_ms": 1737896463446,
+      "content": "Que paso chicos",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1737869580440,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 8679,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1737866209937,
+      "content": "albor_pablo_ inici\u00c3\u00b3 una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1737866208275,
+      "content": "Pablo cre\u00c3\u00b3 el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo y Alejandro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pabloyalejandro_9264463446968854",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

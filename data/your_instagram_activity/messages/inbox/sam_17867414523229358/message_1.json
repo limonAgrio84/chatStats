@@ -1,0 +1,336 @@
+{
+  "participants": [
+    {
+      "name": "sam \u00f0\u009f\u00a4\u0091"
+    },
+    {
+      "name": "Leo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1737392472125,
+      "content": "Ahuevo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737391396200,
+      "content": "Va \u00f0\u009f\u0091\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1737383916406,
+      "content": "JAJAJAJ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1737383915941,
+      "content": "Pero le ense\u00c3\u00b1amos a jugar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1737383915154,
+      "content": "Dijo que no mucho",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737383505488,
+      "content": "El nuevo juega fut?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1737339852206,
+      "content": "Literal \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Leo",
+          "timestamp": 1737383489
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1737339845291,
+      "content": "Jajajaj",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737339748163,
+      "content": "En secundaria eran buenos partidos \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737339727793,
+      "content": "Jajaja literal",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1737339636978,
+      "content": "sam sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DE0Of0ISOaq/?id=3545522565575927466_56332143003",
+        "share_text": "Esos partidos eran hist\u00c3\u00b3ricos \u00e2\u009a\u00bd\u00ef\u00b8\u008f\n#futbol #futbolperuano #sudamerica #colegio #amistad",
+        "original_content_owner": "rodrigol.pe"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1737251250048,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/DE9FWnBMu7O/?id=3548015625394908878_54310527633",
+        "share_text": "",
+        "original_content_owner": "cripzalos"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1736997308145,
+      "content": "Soy ese \u00f0\u009f\u0097\u00bf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1736997218999,
+      "content": "Mi compa el viol\u00c3\u00adn \u00f0\u009f\u0097\u00bf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1733488464949,
+      "content": "Jajaja mentira",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1733488462536,
+      "content": "Son 10 pesos por clase \u00f0\u009f\u0097\u00bf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733487312484,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733487310134,
+      "content": "Crees poder ir a la entrada y darme tu su\u00c3\u00a9ter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733487303844,
+      "content": "Bro",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1733487302020,
+      "content": "Oyee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729712120736,
+      "content": "okok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729712116185,
+      "content": "No",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729712115219,
+      "content": "Ya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729712108086,
+      "content": "ahorita?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711658174,
+      "content": "Dile que me vea en el ba\u00c3\u00b1o",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711649238,
+      "content": "Nmms",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729711642740,
+      "content": "dice oh que la chingada que esta enojado contigo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729711621252,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711511460,
+      "content": "Porfas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711509652,
+      "content": "Que el env\u00c3\u00ade",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711505869,
+      "content": "Que lea los mensajes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711502545,
+      "content": "Dile a Juanpa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711498827,
+      "content": "Oye",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711497713,
+      "content": "Oye",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729711496445,
+      "content": "Oye",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729255954485,
+      "content": "Lo voy a resubir pq paso un peque\u00c3\u00b1o error de v\u00c3\u00addeo que hasta duro 10 min JAJAJ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729255402390,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729254846001,
+      "content": "Te mando las dem\u00c3\u00a1s que son las completas",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729254839724,
+      "content": "YA LO SUB\u00c3\u008d A MI CUENTAA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729253755132,
+      "content": "Manda video \u00f0\u009f\u00a4\u00ac",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729249481716,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sam \u00f0\u009f\u00a4\u0091",
+      "timestamp_ms": 1729225855844,
+      "content": "Ahorita voy a subir el video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1729207394215,
+      "content": "Manda video",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sam \u00f0\u009f\u00a4\u0091",
+  "is_still_participant": true,
+  "thread_path": "inbox/sam_17867414523229358",
+  "magic_words": [
+    
+  ]
+}

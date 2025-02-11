@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Pablo"
+    },
+    {
+      "name": "Leo"
+    },
+    {
+      "name": "Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pablo",
+      "timestamp_ms": 1726868862334,
+      "content": "Llamada de audio finalizada",
+      "call_duration": 4280,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726867241195,
+      "content": "Iniciaste una llamada de audio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leo",
+      "timestamp_ms": 1726867238896,
+      "content": "Creaste el grupo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pablo y Alejandro",
+  "is_still_participant": true,
+  "thread_path": "inbox/pabloyalejandro_8140714889384294",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}
